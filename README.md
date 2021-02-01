@@ -20,7 +20,7 @@ Syntax highlighted code block
 <body>
 <h1>Welcome to my homepage!</h1>
 <hr>
-Also visit the website of my peer: <a href="http://www.mdx.ac.uk">Camilla DeLuca</a>
+Also visit the website of my peer: <a href="http://www.mdx.ac.uk">Maxi</a>
 </body>
 </html>
 
@@ -34,9 +34,9 @@ Also visit the website of my peer: <a href="http://www.mdx.ac.uk">Camilla DeLuca
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Why I did this
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yasin820/yasin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I have just been playing around with GitHub and experimenting on creating new websites and it has been quite enjoyable.
 
 ### Support or Contact
 
